@@ -1,0 +1,5 @@
+A_Z Handwritten Data.csv
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
